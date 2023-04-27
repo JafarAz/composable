@@ -6,8 +6,7 @@ slug: /
 # Introduction
 
 *Composable Finance: Composing DeFi for mass adoption*
-
-
+//test
 ![composable_finance](./composable-face-banner.png)
 *any money, any chain, anywhere*
 
